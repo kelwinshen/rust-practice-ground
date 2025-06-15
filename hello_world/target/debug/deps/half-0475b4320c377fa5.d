@@ -1,0 +1,12 @@
+/Users/kelwin/Desktop/Spreebucks/rust/hello_world/target/debug/deps/libhalf-0475b4320c377fa5.rmeta: /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/lib.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/bfloat.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/bfloat/convert.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/binary16.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/binary16/arch.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/binary16/arch/aarch64.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/leading_zeros.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/slice.rs
+
+/Users/kelwin/Desktop/Spreebucks/rust/hello_world/target/debug/deps/half-0475b4320c377fa5.d: /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/lib.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/bfloat.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/bfloat/convert.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/binary16.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/binary16/arch.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/binary16/arch/aarch64.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/leading_zeros.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/slice.rs
+
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/lib.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/bfloat.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/bfloat/convert.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/binary16.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/binary16/arch.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/binary16/arch/aarch64.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/leading_zeros.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.5.0/src/slice.rs:
