@@ -13,4 +13,6 @@ main2.rs
 .
 .
 
+Each of the main[n].rs has cover different topic to understand and later will be also some practice that make us more understand how to use the topic.
+
 When I want to run a specific example, I manually copy the content of one of these files into `src/main.rs` and run the project by call cargo run in the specific directory.
