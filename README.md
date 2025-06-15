@@ -3,8 +3,6 @@
 This is my personal playground for learning and experimenting with the [official Rust documentation](https://doc.rust-lang.org/book/).  
 I created this repo to test examples and concepts step by step as I go through the Rust Book.
 
-## 📁 Project Structure
-
 Each Rust experiment or example is saved as a separate file:
 
 main.rs
