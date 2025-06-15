@@ -1,0 +1,11 @@
+/Users/kelwin/Desktop/Spreebucks/rust/hello_world/target/release/deps/libciborium_ll-6c96f92f5e2e3672.rmeta: /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/lib.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/dec.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/enc.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/hdr.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/seg.rs
+
+/Users/kelwin/Desktop/Spreebucks/rust/hello_world/target/release/deps/libciborium_ll-6c96f92f5e2e3672.rlib: /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/lib.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/dec.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/enc.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/hdr.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/seg.rs
+
+/Users/kelwin/Desktop/Spreebucks/rust/hello_world/target/release/deps/ciborium_ll-6c96f92f5e2e3672.d: /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/lib.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/dec.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/enc.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/hdr.rs /Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/seg.rs
+
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/lib.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/dec.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/enc.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/hdr.rs:
+/Users/kelwin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.2/src/seg.rs:
